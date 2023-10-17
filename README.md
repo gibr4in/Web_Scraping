@@ -1,3 +1,6 @@
-# Recommender_system
-There are two types of recommender systems: **Content-based** and **Collaborative Filtering**. Content-based recommender tries to figure out what a user's favourite aspects of an item are, and then recommends items based on those aspects; additionally, collaborative filtering analyses what similar users prefer, and provides a recommendation based on that. On this notebook, a **collaborative filtering model** will be train and test using Kaggle's [Netflix Prize Dataset](https://www.kaggle.com/netflix-inc/netflix-prize-data).  
+# Web scraping
+
+Web scraping is a technique used to **extract data from websites**. It involves programmatically accessing a website's content and pulling out information, typically for the purpose of data analysis, research, or other applications. Web scraping can be done manually, but it is more commonly automated using specialized software tools or programming languages.
+
+There are multiple web scraping libraries available for python like Selenium, Scrapy, or Beautiful Soup 
 
